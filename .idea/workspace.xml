@@ -5,25 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ff8dfacf-93c8-46ef-bc0a-93d567b9929d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.README" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/selenium-sm-dashboard.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/helper/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/helper/env_utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/contacs_book_page.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/home_page.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/login_page.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/selenium_base_page.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tests/test_search_contact_and_branch.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.README" beforeDir="false" afterPath="$PROJECT_DIR$/README" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +23,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "YochevedKaplan"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/YochevedKaplan/selenium-sm-dashboard.git",
+    "accountId": "e01f2244-f55a-4305-aa8a-6ed0cdd3ea06"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -122,7 +117,7 @@
       <updated>1738487575212</updated>
       <workItem from="1738487576246" duration="8206000" />
       <workItem from="1738500544442" duration="1328000" />
-      <workItem from="1738501883204" duration="2978000" />
+      <workItem from="1738501883204" duration="4153000" />
     </task>
     <servers />
   </component>
